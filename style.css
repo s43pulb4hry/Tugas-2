@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #7b1fa2;
+  background-color: #512da8;
 }
 .allbox {
   width: 80%;
@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: space-around;
   text-align: center;
-  color: #4a148c;
+  color: #311b92;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode";
   flex-wrap: wrap;
@@ -24,7 +24,7 @@ img {
 }
 .allbox:hover {
   transition: 2s;
-  background-color: #4a148c;
+  background-color: #311b92;
   color: #ffffff;
   border: solid #ffffff 2px;
 }
